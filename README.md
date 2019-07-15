@@ -13,6 +13,3 @@ Building a cute lil robot called Jetbot from the scratch with minimum knowledge 
 - [ ]PiOLED display
 - [ ]PiOLED header (2x(3+) right angle male)
 - [ ]Chassis and Camera mount (I have no idea what they are so see the 3D printer thingy) 
-
-- [] ticking 
-- [] ticking 2
