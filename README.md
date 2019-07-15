@@ -9,7 +9,7 @@ Building a cute lil robot called Jetbot from the scratch with minimum knowledge 
 - [ ] Motor Driver 
 - [ ] Caster Ball (1-inch diameter) 
 - [ ] Battery (Buy mobile battery from Amazon, 2x 5V/3A output, 10,000mAh)
-- [ ] USB Cable Pack (Type A to Micro)
+- [x] USB Cable Pack (Type A to Micro)
 - [ ] PiOLED display
 - [ ] PiOLED header (2x(3+) right angle male)
 - [ ] Chassis and Camera mount (I have no idea what they are so see the 3D printer thingy) 
