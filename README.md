@@ -1,5 +1,5 @@
 # jetbot
-Building a cute lil robot called Jetbot from the scratch with minimum knowledge of coding... maybe I can work on this in Japanese 
+Building a cute lil robot called Jetbot from the scratch with minimum knowledge of coding... maybe I can work on this in Japanese 🤖
 
 # Things to prepare
 - [x] Jetson Nano
