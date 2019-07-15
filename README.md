@@ -13,3 +13,9 @@ Building a cute lil robot called Jetbot from the scratch with minimum knowledge 
 - [ ] PiOLED display
 - [ ] PiOLED header (2x(3+) right angle male)
 - [ ] Chassis and Camera mount (I have no idea what they are so see the 3D printer thingy) 
+
+- [ ] Camera (default is Leopard imaging but other options available too, eg: RPi Camera V2 + Lens Attachment)
+- [ ] Wifi: M2 Card + Antennas (or Dongle) 
+
+- [ ] Wheels
+- [ ] Assembly Hardware (screws and stuff... see the material list later) 
