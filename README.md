@@ -17,5 +17,5 @@ Building a cute lil robot called Jetbot from the scratch with minimum knowledge 
 - [ ] Camera (default is Leopard imaging but other options available too, eg: RPi Camera V2 + Lens Attachment)
 - [ ] Wifi: M2 Card + Antennas (or Dongle) 
 
-- [ ] Wheels
+- [x] Wheels
 - [ ] Assembly Hardware (screws and stuff... see the material list later) 
