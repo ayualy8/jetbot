@@ -19,3 +19,5 @@ Building a cute lil robot called Jetbot from the scratch with minimum knowledge 
 
 - [x] Wheels
 - [ ] Assembly Hardware (screws and stuff... see the material list later) 
+
+The wheels... :
